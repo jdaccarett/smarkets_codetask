@@ -1,4 +1,3 @@
-//TableNew shows TableForm and TableFormReview
 import React, { Component } from "react";
 import { Redirect } from "react-router";
 import { connect } from "react-redux";
